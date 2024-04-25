@@ -11,10 +11,10 @@ import eight from '../assets/svg/projects/eight.svg'
 export const projectsData = [
     {
         id: 1,
-        projectName: 'Employee Management',
-        projectDesc: 'This project aims to build an employee management system that consolidates all information of a company',
-        tags: ['React', 'CSS', 'Material Ui'],
-        code: 'https://github.com/hhhrrrttt222111/developer-portfolio',
+        projectName: 'File Encryptor and Decryptor',
+        projectDesc: 'This project aims to build to encrypt the file and decrypt the file using SHA alogorithm and is used in security purposes',
+        tags: ['HTML', 'JS', 'CSS'],
+        code: 'https://github.com/shyamkumar6/PBL/tree/main/PBL',
         demo: 'https://github.com/hhhrrrttt222111/developer-portfolio',
         image: one
     },
